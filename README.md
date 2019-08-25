@@ -17,6 +17,7 @@
 |  3   |         [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)          | [java](Baekjoon/17070.java)  |  4   |          [배열 돌리기 4](https://www.acmicpc.net/problem/17406)          | [java](Baekjoon/17406.java)  |
 |  5   |         [로봇 청소기](https://www.acmicpc.net/problem/14503)          | [java](Baekjoon/14503.java)  |  6   |          [테트로미노](https://www.acmicpc.net/problem/14500)          | [java](Baekjoon/14500.java)  |
 |  7   |         [아기 상어](https://www.acmicpc.net/problem/16236)          | [java](Baekjoon/16236.java)  |  8   |          [뱀](https://www.acmicpc.net/problem/3190)          | [java](Baekjoon/3190.java)  |
+|  9   |         [경사로](https://www.acmicpc.net/problem/14890)          | [java](Baekjoon/14890.java)  |  10   |          [스도쿠](https://www.acmicpc.net/problem/2580)          | [java](Baekjoon/2580.java)  |
 
 </details>
 
