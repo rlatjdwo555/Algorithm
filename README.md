@@ -20,7 +20,22 @@
 |  9   |         [경사로](https://www.acmicpc.net/problem/14890)          | [java](Baekjoon/14890.java)  |  10   |          [스도쿠](https://www.acmicpc.net/problem/2580)          | [java](Baekjoon/2580.java)  |
 
 </details>
+<br>
 
+입문 문제
+------
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                         | 코드                         | 번호 | 문제                                                             | 코드                         |
+|:----:|:----------------------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
+|  1   |         [링](https://www.acmicpc.net/problem/3036)          | [java](Baekjoon/3036.java)  |  2   |          [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988)          | [java](Baekjoon/5988.java)  |
+|  3   |         [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263)          | [java](Baekjoon/17263.java)  |  4   |          [키보드 이벤트](https://www.acmicpc.net/problem/17254)          | [java](Baekjoon/17254.java)  |
+|  5   |         [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)          | [java](Baekjoon/3003.java)  |  6   |          [체스판 조각](https://www.acmicpc.net/problem/3004)          | [java](Baekjoon/3004.java)  |
+
+
+
+</details>
 
 
 
