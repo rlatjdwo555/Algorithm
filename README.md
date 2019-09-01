@@ -39,7 +39,7 @@
 프로그래머스 (https://programmers.co.kr)
 ============================
 
-KAKAO BLIND RECRUITMENT(2017)
+KAKAO BLIND RECRUITMENT(2017~2018)
 ------
 
 <details open> <summary> 접기 / 펼치기 </summary>
@@ -48,7 +48,8 @@ KAKAO BLIND RECRUITMENT(2017)
 |:----:|:----------------------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
 |  1   |         [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)          | [java](Programmers/17682.java)  |  2   |          [[1차] 비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681)          | [java](Programmers/17681.java)  |
 |  3   |         [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)          | [java](Programmers/17680.java)  |  4   |          [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)          | [java](Programmers/17679.java)  |
-|  5   |         [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)          | [java](Programmers/17677.java)  | |
+|  5   |         [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)          | [java](Programmers/17677.java)  |  6   |          [[1차] 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)          | [java](Programmers/42888.java)   |
+|  5   |         [[1차] 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)          | [java](Programmers/42889.java)  |  |
 
 </details>
 
