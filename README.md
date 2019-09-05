@@ -20,7 +20,7 @@
 |  9   |         [경사로](https://www.acmicpc.net/problem/14890)          | [java](Baekjoon/14890.java)  |  10   |          [스도쿠](https://www.acmicpc.net/problem/2580)          | [java](Baekjoon/2580.java)  |
 |  10   |         [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)          | [java](Baekjoon/17140.java)  |  11   |          [낚시왕](https://www.acmicpc.net/problem/17143)          | [java](Baekjoon/17143.java)  |
 |  12   |         [감시](https://www.acmicpc.net/problem/15683)          | [java](Baekjoon/15683.java)  |  13   |          [치킨배달](https://www.acmicpc.net/problem/15686)          | [java](Baekjoon/15686.java)  |
-|  14  |         [톱니바퀴](https://www.acmicpc.net/problem/14891)      | [java](Baekjoon/14891.java)  |    |          |  |
+|  14  |         [톱니바퀴](https://www.acmicpc.net/problem/14891)      | [java](Baekjoon/14891.java)  |  15  |    [2048(Easy)](https://www.acmicpc.net/problem/12100)      | [java](Baekjoon/12100.java) |
 
 </details>
 <br>
