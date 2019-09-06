@@ -35,6 +35,9 @@
 |  1   |         [링](https://www.acmicpc.net/problem/3036)          | [java](Baekjoon/3036.java)  |  2   |          [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988)          | [java](Baekjoon/5988.java)  |
 |  3   |         [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263)          | [java](Baekjoon/17263.java)  |  4   |          [키보드 이벤트](https://www.acmicpc.net/problem/17254)          | [java](Baekjoon/17254.java)  |
 |  5   |         [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)          | [java](Baekjoon/3003.java)  |  6   |          [체스판 조각](https://www.acmicpc.net/problem/3004)          | [java](Baekjoon/3004.java)  |
+|  7   |         [돌 게임](https://www.acmicpc.net/problem/9655)          | [java](Baekjoon/9655.java)  |  8   |          [숫자](https://www.acmicpc.net/problem/10093)          | [java](Baekjoon/10093.java)  |
+|  9   |         [돌 게임2](https://www.acmicpc.net/problem/9656)          | [java](Baekjoon/9656.java)  |  10   |          [돌 게임5](https://www.acmicpc.net/problem/9659)          | [java](Baekjoon/9659.java)  |
+|  11   |         [전자레인지](https://www.acmicpc.net/problem/10162)          | [java](Baekjoon/10162.java)  |  12   |          [문자가 몇갤까](https://www.acmicpc.net/problem/7600)          | [java](Baekjoon/7600.java)  |
 </details>
 
 
