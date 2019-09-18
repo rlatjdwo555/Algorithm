@@ -59,6 +59,7 @@ DFS / BFS
 | 번호 | 문제                                                                         | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:----------------------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
 |  1   |         [아스키 코드](https://www.acmicpc.net/problem/11654)          | [java](Baekjoon/11654.java)  |  2   |          [단어의 개수](https://www.acmicpc.net/problem/1152)          | [java](Baekjoon/1152.java)  |
+|  3   |         [알파벳 찾기](https://www.acmicpc.net/problem/10809)          | [java](Baekjoon/10809.java)  |  4   |          [단어의 개수](https://www.acmicpc.net/problem/1120)          | [java](Baekjoon/1120.java)  |
 </details>
 
 
