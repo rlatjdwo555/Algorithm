@@ -61,6 +61,7 @@ DFS / BFS
 |  1   |         [아스키 코드](https://www.acmicpc.net/problem/11654)          | [java](Baekjoon/11654.java)  |  2   |          [단어의 개수](https://www.acmicpc.net/problem/1152)          | [java](Baekjoon/1152.java)  |
 |  3   |         [알파벳 찾기](https://www.acmicpc.net/problem/10809)          | [java](Baekjoon/10809.java)  |  4   |          [문자열](https://www.acmicpc.net/problem/1120)          | [java](Baekjoon/1120.java)  |
 |  5   |         [알파벳 거리](https://www.acmicpc.net/problem/5218)          | [java](Baekjoon/5218.java)  |  6   |   [유학 금지](https://www.acmicpc.net/problem/2789)               | [java](Baekjoon/2789.java)  |
+|  7   |         [방 번호](https://www.acmicpc.net/problem/1475)          | [java](Baekjoon/1475.java)  |  8   |   [하얀 칸](https://www.acmicpc.net/problem/1100)               | [java](Baekjoon/1100.java)  |
 </details>
 
 
