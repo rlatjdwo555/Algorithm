@@ -52,6 +52,7 @@ DFS / BFS
 | 번호 | 문제                                                                         | 코드                         | 번호 | 문제                                                             | 코드                         |
 |:----:|:----------------------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
 |  1   |         [DFS와 BFS](https://www.acmicpc.net/problem/1260)          | [java](Baekjoon/1260.java)  |  2   |          [미로 탐색](https://www.acmicpc.net/problem/2178)          | [java](Baekjoon/2178.java)  |
+|  3   |         [단지번호붙이기](https://www.acmicpc.net/problem/2667)          | [java](Baekjoon/2667.java)  |  4   |          [숨바꼭질](https://www.acmicpc.net/problem/1697)          | [java](Baekjoon/1697.java)  |
 
 </details>
 
