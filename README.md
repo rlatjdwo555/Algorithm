@@ -54,6 +54,7 @@ DFS / BFS
 |  1   |         [DFS와 BFS](https://www.acmicpc.net/problem/1260)          | [java](Baekjoon/1260.java)  |  2   |          [미로 탐색](https://www.acmicpc.net/problem/2178)          | [java](Baekjoon/2178.java)  |
 |  3   |         [단지번호붙이기](https://www.acmicpc.net/problem/2667)          | [java](Baekjoon/2667.java)  |  4   |          [숨바꼭질](https://www.acmicpc.net/problem/1697)          | [java](Baekjoon/1697.java)  |
 |  5   |         [경로찾기](https://www.acmicpc.net/problem/11403)          | [java](Baekjoon/11403.java)  |  6   |          [연결 요소의 개수](https://www.acmicpc.net/problem/11724)          | [java](Baekjoon/11724.java)  |
+|  7   |         [유기농 배추](https://www.acmicpc.net/problem/1012)          | [java](Baekjoon/1012.java)  |  8   |          [로또](https://www.acmicpc.net/problem/6603)          | [java](Baekjoon/6603.java)  |
 
 </details>
 
