@@ -23,6 +23,7 @@
 |  14  |         [톱니바퀴](https://www.acmicpc.net/problem/14891)      | [java](Baekjoon/14891.java)  |  15  |    [2048(Easy)](https://www.acmicpc.net/problem/12100)      | [java](Baekjoon/12100.java) |
 |  16  |         [연구소](https://www.acmicpc.net/problem/14502)      | [java](Baekjoon/14502.java)  |  17  |   [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [java](Baekjoon/14889.java) |
 |  18  |         [인구 이동](https://www.acmicpc.net/problem/16234)      | [java](Baekjoon/16234.java)  |  19  |   [나무 재테크](https://www.acmicpc.net/problem/16235)  | [java](Baekjoon/16235.java) |
+|  20  |         [게리맨더링](https://www.acmicpc.net/problem/17471)      | [java](Baekjoon/17471.java)  |  21  |   [다리 만들기2](https://www.acmicpc.net/problem/17472)  | [java](Baekjoon/17472.java) |
 
 </details>
 <br>
