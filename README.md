@@ -44,7 +44,7 @@
 |  13   |         [상근이의 친구들](https://www.acmicpc.net/problem/5717)          | [java](Baekjoon/5717.java)  |  14   |          [정수의 개수](https://www.acmicpc.net/problem/10821)          | [java](Baekjoon/10821.java)  |
 |  15   |         [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866)          | [java](Baekjoon/11866.java)  |  16   |          [소수 구하기](https://www.acmicpc.net/problem/1929)          | [java](Baekjoon/1929.java)  |
 |  17  |         [카드게임](https://www.acmicpc.net/problem/10801)      | [java](Baekjoon/10801.java)  |  18  |   [분수좋아해?](https://www.acmicpc.net/problem/10474)  | [java](Baekjoon/10474.java) |
-|  19  |         [모음의 개수](https://www.acmicpc.net/problem/10987)      | [java](Baekjoon/10987.java)  |   |    |  |
+|  19  |         [모음의 개수](https://www.acmicpc.net/problem/10987)      | [java](Baekjoon/10987.java)  |    |    |  |
 </details>
 
 
@@ -59,7 +59,7 @@ DFS / BFS
 |  5   |         [경로찾기](https://www.acmicpc.net/problem/11403)          | [java](Baekjoon/11403.java)  |  6   |          [연결 요소의 개수](https://www.acmicpc.net/problem/11724)          | [java](Baekjoon/11724.java)  |
 |  7   |         [유기농 배추](https://www.acmicpc.net/problem/1012)          | [java](Baekjoon/1012.java)  |  8   |          [로또](https://www.acmicpc.net/problem/6603)          | [java](Baekjoon/6603.java)  |
 |  9   |         [토마토](https://www.acmicpc.net/problem/7569)          | [java](Baekjoon/7569.java)  |  10   |          [텀 프로젝트](https://www.acmicpc.net/problem/9466)          | [java](Baekjoon/9466.java)  |
-|  11   |         [빙산](https://www.acmicpc.net/problem/2573)          | [java](Baekjoon/2573.java)  |  12   |                  |  |
+|  11   |         [빙산](https://www.acmicpc.net/problem/2573)          | [java](Baekjoon/2573.java)  |  12   |      [부분수열의 합](https://www.acmicpc.net/problem/1182)             | [java](Baekjoon/1182.java) |
 
 </details>
 
