@@ -62,7 +62,7 @@ DFS / BFS
 |  9   |         [토마토](https://www.acmicpc.net/problem/7569)          | [java](Baekjoon/7569.java)  |  10   |          [텀 프로젝트](https://www.acmicpc.net/problem/9466)          | [java](Baekjoon/9466.java)  |
 |  11   |         [빙산](https://www.acmicpc.net/problem/2573)          | [java](Baekjoon/2573.java)  |  12   |      [부분수열의 합](https://www.acmicpc.net/problem/1182)             | [java](Baekjoon/1182.java) |
 |  13  |         [최소비용 구하기](https://www.acmicpc.net/problem/1916)          | [java](Baekjoon/1916.java)  |  14   |   [파티](https://www.acmicpc.net/problem/1238)             | [java](Baekjoon/1238.java)  |
-|  15  |         [안전 영역](https://www.acmicpc.net/problem/2468)          | [java](Baekjoon/2468.java)  |  16   |            |  |
+|  15  |         [안전 영역](https://www.acmicpc.net/problem/2468)          | [java](Baekjoon/2468.java)  |  16   |   [촌수 계산](https://www.acmicpc.net/problem/2644)         | [java](Baekjoon/2644.java) |
 
 </details>
 
