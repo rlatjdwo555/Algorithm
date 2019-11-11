@@ -63,7 +63,7 @@ DFS / BFS
 |  11   |         [빙산](https://www.acmicpc.net/problem/2573)          | [java](Baekjoon/2573.java)  |  12   |      [부분수열의 합](https://www.acmicpc.net/problem/1182)             | [java](Baekjoon/1182.java) |
 |  13  |         [최소비용 구하기](https://www.acmicpc.net/problem/1916)          | [java](Baekjoon/1916.java)  |  14   |   [파티](https://www.acmicpc.net/problem/1238)             | [java](Baekjoon/1238.java)  |
 |  15  |         [안전 영역](https://www.acmicpc.net/problem/2468)          | [java](Baekjoon/2468.java)  |  16   |   [촌수 계산](https://www.acmicpc.net/problem/2644)         | [java](Baekjoon/2644.java) |
-|  17  |         [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          | [java](Baekjoon/2206.java)  |  18   |          |  |
+|  17  |         [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          | [java](Baekjoon/2206.java)  |  18   |  [퍼즐](https://www.acmicpc.net/problem/1525)        | [java](Baekjoon/1525.java) |
 
 
 </details>
