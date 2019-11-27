@@ -66,7 +66,7 @@ DFS / BFS
 |  17  |         [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          | [java](Baekjoon/2206.java)  |  18   |  [퍼즐](https://www.acmicpc.net/problem/1525)        | [java](Baekjoon/1525.java) |
 |  19  |         [적록색약](https://www.acmicpc.net/problem/10026)          | [java](Baekjoon/10026.java)  |  20   |   [소수 경로](https://www.acmicpc.net/problem/1963)    | [java](Baekjoon/1963.java) |
 |  21  |         [이분 그래프](https://www.acmicpc.net/problem/1707)          | [java](Baekjoon/1707.java)  |  22   |  [Puyo Puyo](https://www.acmicpc.net/problem/11559)      | [java](Baekjoon/11559.java) |
-|  23  |         [불](https://www.acmicpc.net/problem/5427)          | [java](Baekjoon/5427.java)  |  24   |       |  |
+|  23  |         [불](https://www.acmicpc.net/problem/5427)          | [java](Baekjoon/5427.java)  |  24   |   [가스관](https://www.acmicpc.net/problem/2931)    | [java](Baekjoon/2931.java) |
 
 
 
