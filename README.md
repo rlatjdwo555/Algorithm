@@ -68,6 +68,7 @@ DFS / BFS
 |  21  |         [이분 그래프](https://www.acmicpc.net/problem/1707)          | [java](Baekjoon/1707.java)  |  22   |  [Puyo Puyo](https://www.acmicpc.net/problem/11559)      | [java](Baekjoon/11559.java) |
 |  23  |         [불](https://www.acmicpc.net/problem/5427)          | [java](Baekjoon/5427.java)  |  24   |   [가스관](https://www.acmicpc.net/problem/2931)    | [java](Baekjoon/2931.java) |
 |  25  |         [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)          | [java](Baekjoon/1389.java)  |  26   |   [보물섬](https://www.acmicpc.net/problem/2589)    | [java](Baekjoon/2589.java) |
+|  27  |         [상범빌딩](https://www.acmicpc.net/problem/6593)          | [java](Baekjoon/6593.java)  |  28   |   [숫자고르기](https://www.acmicpc.net/problem/2668)    | [java](Baekjoon/2668.java) |
 
 
 
