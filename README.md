@@ -111,11 +111,3 @@ KAKAO BLIND RECRUITMENT(2017~2018)
 |  7   |         [[1차] 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)          | [java](Programmers/42889.java)  |  8   |[[1차] 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)          | [java](Programmers/42890.java)|
 
 </details>
-
-
-
-
-
-
-
-**Copyright &copy; 2018-2019 Kang Jegyun**
