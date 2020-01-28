@@ -70,10 +70,6 @@ DFS / BFS
 |  25  |         [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)          | [java](Baekjoon/1389.java)  |  26   |   [보물섬](https://www.acmicpc.net/problem/2589)    | [java](Baekjoon/2589.java) |
 |  27  |         [상범빌딩](https://www.acmicpc.net/problem/6593)          | [java](Baekjoon/6593.java)  |  28   |   [숫자고르기](https://www.acmicpc.net/problem/2668)    | [java](Baekjoon/2668.java) |
 |  29  |         [다리 만들기](https://www.acmicpc.net/problem/2146)          | [java](Baekjoon/2146.java)  |  30   |   [⚾](https://www.acmicpc.net/problem/17281)    | [java](Baekjoon/17281.java) |
-
-
-
-
 </details>
 
 최단경로
@@ -109,5 +105,14 @@ KAKAO BLIND RECRUITMENT(2017~2018)
 |  3   |         [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)          | [java](Programmers/17680.java)  |  4   |          [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)          | [java](Programmers/17679.java)  |
 |  5   |         [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)          | [java](Programmers/17677.java)  |  6   |          [[1차] 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)          | [java](Programmers/42888.java)   |
 |  7   |         [[1차] 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)          | [java](Programmers/42889.java)  |  8   |[[1차] 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)          | [java](Programmers/42890.java)|
-
 </details>
+
+일반 문제
+------
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                                         | 코드                         | 번호 | 문제                                                             | 코드                         |
+|:----:|:----------------------------------------------------------------------------:|:----------------------------:|:----:|:----------------------------------------------------------------:|:----------------------------:|
+|  1   |         [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)          | [java](Programmers/42840.java)  |  2   |          [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)          | [java](Programmers/42839.java)  |
+|  3   |         [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841)          | [java](Programmers/42841.java)  |  4   |          [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)          | [java](Programmers/42748.java)  |
