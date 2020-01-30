@@ -46,6 +46,7 @@
 |  15   |         [조세퍼스 문제 0](https://www.acmicpc.net/problem/11866)          | [java](Baekjoon/11866.java)  |  16   |          [소수 구하기](https://www.acmicpc.net/problem/1929)          | [java](Baekjoon/1929.java)  |
 |  17  |         [카드게임](https://www.acmicpc.net/problem/10801)      | [java](Baekjoon/10801.java)  |  18  |   [분수좋아해?](https://www.acmicpc.net/problem/10474)  | [java](Baekjoon/10474.java) |
 |  19  |         [모음의 개수](https://www.acmicpc.net/problem/10987)      | [java](Baekjoon/10987.java)  |  20  |  [빠른 A+B](https://www.acmicpc.net/problem/15552)  | [java](Baekjoon/15552.java) |
+|  21  |         [스택](https://www.acmicpc.net/problem/10828)      | [java](Baekjoon/10828.java)  |  22  |  [쇠막대기](https://www.acmicpc.net/problem/10799)  | [java](Baekjoon/10799.java) |
 </details>
 
 
